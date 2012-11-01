@@ -50,14 +50,14 @@ table {
 /* Style */
 
 body {
-  font-size: 15px;
-  font-family: Arial, Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  font-family: comic-sans, Georgia, Helvetica, sans-serif;
   line-height: 1.5;
   background: #D1D1D1;
 }
 
 a {
-  color: #63a52a;
+  color: #63a22c;
   text-decoration: none;
   -webkit-transition: color ease-in-out 0.3s;
 }
@@ -147,7 +147,7 @@ p.tagline {
 .download-bar .trc {
   border: 10px solid black;
   border-color:  black transparent transparent;
-  width: 0;
+  width: 12;
   height: 0;
   display: block;
   position: absolute;
