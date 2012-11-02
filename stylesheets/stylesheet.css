@@ -44,9 +44,9 @@ q:before, q:after {
   content: none;
 }
 table {
-  border-collapse: collapse;
-  border-spacing: 0;
-   color: red;
+  border-dahed;
+  border-spacing: 5px;
+   color: blue;
    
 }
 
@@ -57,7 +57,7 @@ body {
   font-family: comic-sans, Georgia, Helvetica, sans-serif;
   line-height: 1.5;
   background: #D1D1D1;
-   color: red;
+   color: blue;
 }
 
 a {
