@@ -54,11 +54,18 @@ table {
 
 body {
   font-size: 24px;
-  font-family: comic-sans, Georgia, Helvetica, sans-serif;
+  font-family: Georgia, Helvetica, sans-serif;
   line-height: 1.5;
   background: #D1D1D1;
-   color: Lime;
+   color: Black;
+   font-style: bold;
 }
+Table {
+   font-size: 20px;
+   color: blue;
+   
+}
+
 
 a {
   color: #63a22c;
